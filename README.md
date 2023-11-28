@@ -4,6 +4,7 @@
 * Pre-training
 * Prompting Learning
 * Multimodal Large Language Models
+* Fine Tuning
 ## Object Reidentification
 | Date   | keywords   | Institute   | Paper | Publication|  code  |
 | :-------:| :-----:  | :----:  |:----:  |:----:  |:----:  |
@@ -36,5 +37,11 @@
 | Date   | keywords   | Institute   | Paper | Publication|  code  |
 | :-------:| :-----:  | :----:  |:----:  |:----:  |:----:  |
 | 2022  | masked image reconstruction |Alibaba |  [Masked Vision-Language Transformer in Fashion](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Cross-Modal_Implicit_Relation_Reasoning_and_Aligning_for_Text-to-Image_Person_Retrieval_CVPR_2023_paper.pdf)   |Machine Intelligence Research   | https://github.com/GewelsJI/MVLT |
+| 手机    |   \$12   |   12   |
+| 管线    |    \$1    |  234  |
+## Fine Tuning
+| Date   | keywords   | Institute   | Paper | Publication|  code  |
+| :-------:| :-----:  | :----:  |:----:  |:----:  |:----:  |
+| 2023  | Fine Tuning |Tsinghua University |  [CogVLM: Visual Expert for Pretrained Language Models](https://arxiv.org/pdf/2311.03079.pdf)   |arXiv   | [https://github.com/GewelsJI/MVLT](https://github.com/THUDM/CogVLM) |
 | 手机    |   \$12   |   12   |
 | 管线    |    \$1    |  234  |
