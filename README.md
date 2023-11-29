@@ -10,6 +10,7 @@
 | :-------:| :-----:  | :----:  |:----:  |:----:  |:----:  |
 | 2023  | Text-to-Image Person Retrieval |Wuhan University|  [Cross-Modal Implicit Relation Reasoning and Aligning for Text-to-Image Person Retrieval](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Cross-Modal_Implicit_Relation_Reasoning_and_Aligning_for_Text-to-Image_Person_Retrieval_CVPR_2023_paper.pdf)   |CVPR   |https://github.com/anosorae/IRRA|
 | 2023  | Person re-identification |Wuhan University|  [Towards Modality-Agnostic Person Re-identification with Descriptive Query](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Towards_Modality-Agnostic_Person_Re-Identification_With_Descriptive_Query_CVPR_2023_paper.pdf)   |CVPR   |https://github.com/ccq195/UNIReID|
+| 2023  | Modality re-identification | Wuhan University | [Towards Modality-Agnostic Person Re-identification with Descriptive Query](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Towards_Modality-Agnostic_Person_Re-Identification_With_Descriptive_Query_CVPR_2023_paper.pdf)   | CVPR | https://github.com/ccq195/UNIReID |
 | 手机    |   \$12   |   12   |
 | 管线    |    \$1    |  234  |
 
