@@ -2,8 +2,8 @@
 ## Table of Content
 
 * [Object Reidentification](#Object_Reidentification)
-    *Text-Image Reidentification
-    *Visible-Infrared Reidentiication
+   * Text-Image Reidentification
+   * Visible-Infrared Reidentification
 * [Pre-training](#Pre_training)
 * [Prompting Learning](#Prompting_Learning)
 * [Multimodal Large Language Models](#Multimodal_Large_Language_Models)
@@ -11,12 +11,14 @@
 * [Fine Tuning](#Fine_Tuning)
 <span id="Object_Reidentification"></span>
 ## Object Reidentification
+### Text-Image Reidentification
 | Date   | keywords   | Institute   | Paper | Publication|  code  |
 | :-------:| :-----:  | :----:  |:----:  |:----:  |:----:  |
 | 2023  | Text-to-Image Person Retrieval |Wuhan University|  [Cross-Modal Implicit Relation Reasoning and Aligning for Text-to-Image Person Retrieval](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Cross-Modal_Implicit_Relation_Reasoning_and_Aligning_for_Text-to-Image_Person_Retrieval_CVPR_2023_paper.pdf)   |CVPR   |https://github.com/anosorae/IRRA|
 | 2023  | Person re-identification |Wuhan University|  [Towards Modality-Agnostic Person Re-identification with Descriptive Query](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Towards_Modality-Agnostic_Person_Re-Identification_With_Descriptive_Query_CVPR_2023_paper.pdf)   |CVPR   |https://github.com/ccq195/UNIReID|
 | 手机    |   \$12   |   12   |
 | 管线    |    \$1    |  234  |
+### Visible-Infrared Reidentification
 <span id="Pre_training"></span>
 ## Pre-training
 | Date   | keywords   | Institute   | Paper | Publication|  code  |
