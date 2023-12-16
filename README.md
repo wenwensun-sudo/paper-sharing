@@ -3,9 +3,10 @@
 
 * [Object Reidentification](#Object_Reidentification)
 * [Pre-training](#Pre_training)
-* Prompting Learning
-* Multimodal Large Language Models
-* Fine Tuning
+* [Prompting Learning](#Prompting_Learning)
+* [Multimodal Large Language Models](Multimodal_Large_Language_Models)
+* [Cross-modal Retrieval](Cross_modal_Retrieval)
+* [Fine Tuning](Fine_Tuning)
 <span id="Object_Reidentification"></span>
 ## Object Reidentification
 | Date   | keywords   | Institute   | Paper | Publication|  code  |
@@ -21,6 +22,7 @@
 | 2022  | Vision-and-Language Pre-Training  |The Chinese University of Hong Kong  |  [Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training](https://arxiv.org/pdf/2209.07098.pdf)   |MICCAI   |  https://github.com/zhjohnchan/M3AE|
 | 手机    |   \$12   |   12   |
 | 管线    |    \$1    |  234  |
+<span id="Prompting_Learning"></span>
 ## Prompting Learning
 | Date   | keywords   | Institute   | Paper | Publication|  code  |
 | :-------:| :-----:  | :----:  |:----:  |:----:  |:----:  |
@@ -29,18 +31,21 @@
 | 2023  | Prompt  |  |  [Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model](https://ieeexplore.ieee.org/abstract/document/10171397)   |IEEE Transactions on Multimedia   |  https://github.com/fanrena/DPT|
 | 手机    |   \$12   |   12   |
 | 管线    |    \$1    |  234  |
+<span id="Multimodal_Large_Language_Models"></span>
 ## Multimodal Large Language Models
 | Date   | keywords   | Institute   | Paper | Publication|  code  |
 | :-------:| :-----:  | :----:  |:----:  |:----:  |:----:  |
 | 2022  | masked image reconstruction |Alibaba |  [Masked Vision-Language Transformer in Fashion](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Cross-Modal_Implicit_Relation_Reasoning_and_Aligning_for_Text-to-Image_Person_Retrieval_CVPR_2023_paper.pdf)   |Machine Intelligence Research   | https://github.com/GewelsJI/MVLT |
 | 手机    |   \$12   |   12   |
 | 管线    |    \$1    |  234  |
+<span id="Cross_modal_Retrieval"></span>
 ## Cross-modal Retrieval
 | Date   | keywords   | Institute   | Paper | Publication|  code  |
 | :-------:| :-----:  | :----:  |:----:  |:----:  |:----:  |
 | 2022  | masked image reconstruction |Alibaba |  [Masked Vision-Language Transformer in Fashion](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Cross-Modal_Implicit_Relation_Reasoning_and_Aligning_for_Text-to-Image_Person_Retrieval_CVPR_2023_paper.pdf)   |Machine Intelligence Research   | https://github.com/GewelsJI/MVLT |
 | 手机    |   \$12   |   12   |
 | 管线    |    \$1    |  234  |
+<span id="Fine_Tuning"></span>
 ## Fine Tuning
 | Date   | keywords   | Institute   | Paper | Publication|  code  |
 | :-------:| :-----:  | :----:  |:----:  |:----:  |:----:  |
