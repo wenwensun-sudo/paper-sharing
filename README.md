@@ -16,7 +16,20 @@
 | :-------:| :-----:  | :----:  |:----:  |:----:  |:----:  |
 | 2023  | Text-to-Image Person Retrieval |Wuhan University|  [Cross-Modal Implicit Relation Reasoning and Aligning for Text-to-Image Person Retrieval](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Cross-Modal_Implicit_Relation_Reasoning_and_Aligning_for_Text-to-Image_Person_Retrieval_CVPR_2023_paper.pdf)   |CVPR   |https://github.com/anosorae/IRRA|
 | 2023  | Person re-identification |Wuhan University|  [Towards Modality-Agnostic Person Re-identification with Descriptive Query](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Towards_Modality-Agnostic_Person_Re-Identification_With_Descriptive_Query_CVPR_2023_paper.pdf)   |CVPR   |https://github.com/ccq195/UNIReID|
-| 2023  | Person re-identification |Nanjing University of Science and Technology|  [Learning Comprehensive Representations with Richer Self for Text-to-Image Person Re-Identification](https://arxiv.org/pdf/2310.11210.pdf)   |MM   |https://github.com/ccq195/UNIReID|
+| 2023  | Person re-identification |Shenzhen International Graduate School|  [CLIP-based Synergistic Knowledge Transfer for Text-based Person Retrieval](https://arxiv.org/pdf/2310.11210.pdf)   |	arXiv  |https://github.com/ccq195/UNIReID|
+| 2023  | Person re-identification |South China University of Technology|  [Unified Pre-training with Pseudo Texts for Text-To-Image Person Re-identification](https://arxiv.org/pdf/2310.11210.pdf)   |	 ICCV |https://github.com/ccq195/UNIReID|
+| 2023  | Person re-identification |Sichuan University|  [BDNet: A BERT-based dual-path network for text-to-image cross-modal person re-identification](https://www.sciencedirect.com/science/article/pii/S0031320323003370)   |	 Pattern Recognition |https://github.com/ccq195/UNIReID|
+| 2023  | Person re-identification |Kunming University of Science and Technology|  [Progressive Feature Mining and Externa Knowledge-Assisted Text-Pedestrian Image Retrieval](https://arxiv.org/pdf/2308.11994.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
+| 2023  | Person re-identification | Sichuan University|  [Noisy-Correspondence Learning for Text-to-Image Person Re-identification](https://arxiv.org/pdf/2308.09911.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
+| 2023  | Person re-identification | Xi’an Jiaotong University|  [Towards Unified Text-based Person Retrieval: A Large-scale Multi-Attribute and Language Search Benchmark](https://arxiv.org/pdf/2308.09911.pdf)   |	 ACMM |https://github.com/ccq195/UNIReID|
+| 2023  | Person re-identification | Nanjing Tech University Nanjing|  [TVPR:Text-to-Video Person Retrieval and a New Benchmark](https://arxiv.org/pdf/2307.07184.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
+| 2023  | Person re-identification | -|  [Flare-Aware Cross-modal Enhancement Network for Multi-spectral Vehicle Re-identification] https://arxiv.org/pdf/2307.07184.pdf)   |	 arXiv  |https://github.com/ccq195/UNIReID|
+| 2023  | Person re-identification |  Nanjing University of Science and Technology|  [Image-Specific Information Suppression and Implicit Local Alignment for Text-based Person Search](https://arxiv.org/pdf/2208.14365.pdf)   |	 IEEE T NEUR NET LEAR |https://github.com/ccq195/UNIReID|
+| 2023  | Person re-identification | Fudan University|  [Calibrating Cross-modal Features for Text-Based Person Searching](https://arxiv.org/pdf/2304.02278.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
+| 2023  | Person re-identification | Fudan University|  [UNIMO-3: Multi-granularity Interaction for Vision-Language Representation Learning](https://arxiv.org/pdf/2304.02278.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
+
+
+
 
 | 手机    |   \$12   |   12   |
 | 管线    |    \$1    |  234  |
