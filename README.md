@@ -6,8 +6,8 @@
 * Prompting Learning
 * Multimodal Large Language Models
 * Fine Tuning
-<span id="Object_Reidentification"></span>
-## Object Reidentification
+
+## Object Reidentification<span id="Object_Reidentification"></span>
 | Date   | keywords   | Institute   | Paper | Publication|  code  |
 | :-------:| :-----:  | :----:  |:----:  |:----:  |:----:  |
 | 2023  | Text-to-Image Person Retrieval |Wuhan University|  [Cross-Modal Implicit Relation Reasoning and Aligning for Text-to-Image Person Retrieval](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Cross-Modal_Implicit_Relation_Reasoning_and_Aligning_for_Text-to-Image_Person_Retrieval_CVPR_2023_paper.pdf)   |CVPR   |https://github.com/anosorae/IRRA|
