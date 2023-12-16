@@ -38,14 +38,16 @@ retrieval and a keyword-based cross-modal vehicle retrieval system](https://arxi
 | 2023  | Person re-identification | Tianjin University|  [USER: Unified Semantic Enhancement with Momentum Contrast for Image-Text Retrieva](https://arxiv.org/pdf/2301.06844.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
 | 2023  | Person re-identification | University of Chinese Academy of Sciences|  [Refined Knowledge Transfer for Language-Based Person Search](https://ieeexplore.ieee.org/abstract/document/10056995/authors#authors)   |	 IEEE T MULTIMEDIA|https://github.com/ccq195/UNIReID|
 | 2023  | Person re-identification |  Sichuan University|  [An Image–Text Dual-Channel Union Network for Person Re-Identification](https://research.edgehill.ac.uk/ws/portalfiles/portal/68212565/TIM.pdf)   |	 IEEE T INSTRUM MEAS |https://github.com/ccq195/UNIReID|
-
-| 2023  | Person re-identification | Tianjin University|  [USER: Unified Semantic Enhancement with Momentum Contrast for Image-Text Retrieva](https://arxiv.org/pdf/2301.06844.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
-
-| 2023  | Person re-identification | Tianjin University|  [USER: Unified Semantic Enhancement with Momentum Contrast for Image-Text Retrieva](https://arxiv.org/pdf/2301.06844.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
-
-| 2023  | Person re-identification | Tianjin University|  [USER: Unified Semantic Enhancement with Momentum Contrast for Image-Text Retrieva](https://arxiv.org/pdf/2301.06844.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
-
-
+| 2023  | Person re-identification | Northwestern Polytechnical University|  [Improving Inconspicuous Attributes Modeling for Person Search by Language](https://ieeexplore.ieee.org/abstract/document/10149813/authors#authors)   |	 IEEE T IMAGE PROCESS |https://github.com/ccq195/UNIReID|
+| 2023  | Person re-identification | Northwestern Polytechnical University|  [Addressing Information Inequality for Text-Based Person Search via Pedestrian-Centric Visual Denoising and Bias-Aware Alignments](https://ieeexplore.ieee.org/abstract/document/10121152)   |	 arXiv |https://github.com/ccq195/UNIReID|
+| 2023  | Person re-identification | Kunming University of Science and Technologyy|  [Person Text-Image Matching via Text-Feature Interpretability Embedding and External Attack Node Implantation](https://arxiv.org/pdf/2211.08657.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
+| 2023  | Person re-identification | Nanjing University|  [CLIP-Driven Fine-grained Text-Image Person Re-identification](https://arxiv.org/pdf/2210.10276.pdf)   |	 IEEE T IMAGE PROCESS |https://github.com/ccq195/UNIReID|
+| 2023  | Person re-identification | Nanjing Tech University|  [Capturing All-round Information Beyond Color for Text-based Person Retrieval](https://arxiv.org/pdf/2211.08657.pdf)   |	 CAIBC |https://github.com/ccq195/UNIReID|
+| 2022  | Person re-identification | Anhui University|  [See Finer, See More: Implicit Modality Alignment for Text-based Person Retrieval](https://arxiv.org/pdf/2208.08608.pdf)   |	 ECCV |https://github.com/ccq195/UNIReID|
+| 2022  | Person re-identification |DEVCOM Army Research Laboratory, Adelphi, USA|  [Negative Samples are at Large: Leveraging Hard-Distance Elastic Loss for Re-identification](https://link.springer.com/chapter/10.1007/978-3-031-20053-3_35)   |	 ECCV |https://github.com/ccq195/UNIReID|
+| 2022  | Person re-identification | South China University of Technology Guangzhou|  [Learning Granularity-Unified Representations for Text-to-Image
+Person Re-identification](https://arxiv.org/pdf/2207.07802.pdf)   |	 ECCV |https://github.com/ccq195/UNIReID|
+| 2022  | Person re-identification | University of Surrey|  [AXM-Net: Implicit Cross-Modal Feature Alignment for Person Re-identification](https://ojs.aaai.org/index.php/AAAI/article/view/20370)   |	  AAAI |https://github.com/ccq195/UNIReID|
 
 
 | 手机    |   \$12   |   12   |
