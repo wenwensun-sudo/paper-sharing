@@ -2,6 +2,8 @@
 ## Table of Content
 
 * [Object Reidentification](#Object_Reidentification)
+    *Text-Image Reidentification
+    *Visible-Infrared Reidentiication
 * [Pre-training](#Pre_training)
 * [Prompting Learning](#Prompting_Learning)
 * [Multimodal Large Language Models](#Multimodal_Large_Language_Models)
