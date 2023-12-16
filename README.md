@@ -29,17 +29,24 @@
 | 2023  | Person re-identification | Fudan University|  [UNIMO-3: Multi-granularity Interaction for Vision-Language Representation Learning](https://arxiv.org/pdf/2304.02278.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
 | 2023  | Person re-identification | Zhejiang University|  [Transformer-Based Domain-Specific Representation for Unsupervised Domain Adaptive Vehicle Re-Identification](https://ieeexplore.ieee.org/abstract/document/9967437/authors#authors)   |	 IEEE T NEUR NET LEAR |https://github.com/ccq195/UNIReID|
 | 2023  | Person re-identification |-|  [IIITD-20K: Dense captioning for Text-Image ReID](https://arxiv.org/pdf/2305.04497.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
+| 2023  | Person re-identification | University of Liverpool|  [FindVehicle and VehicleFinder: A NER dataset for natural language-based vehicle
+retrieval and a keyword-based cross-modal vehicle retrieval system](https://arxiv.org/pdf/2304.10893.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
+| 2023  | Person re-identification | Shenzhen University|  [Mask-Aware Pseudo Label Denoising for Unsupervised Vehicle Re-Identification](https://ieeexplore.ieee.org/abstract/document/10007428)   |	 IEEE T INTELL TRANSP |https://github.com/ccq195/UNIReID|
+| 2023  | Person re-identification | -|  [Exploiting the Textual Potential from Vision-Language Pre-training for Text-based Person Search](https://arxiv.org/pdf/2303.04497.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
+| 2023  | Person re-identification | Zhejiang University|  [Transformer-Based Domain-Specific Representation for Unsupervised Domain Adaptive Vehicle Re-Identification](https://ieeexplore.ieee.org/abstract/document/9967437)   |	 IEEE T INTELL TRANSP |https://github.com/ccq195/UNIReID|
+| 2023  | Person re-identification | Chung-Ang University|  [Person Re-identification Method Using Text Description Through CLIP](https://ieeexplore.ieee.org/abstract/document/10049924)   |	 ICEIC |https://github.com/ccq195/UNIReID|
+| 2023  | Person re-identification | Tianjin University|  [USER: Unified Semantic Enhancement with Momentum Contrast for Image-Text Retrieva](https://arxiv.org/pdf/2301.06844.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
+| 2023  | Person re-identification | University of Chinese Academy of Sciences|  [Refined Knowledge Transfer for Language-Based Person Search](https://ieeexplore.ieee.org/abstract/document/10056995/authors#authors)   |	 IEEE T MULTIMEDIA|https://github.com/ccq195/UNIReID|
+| 2023  | Person re-identification |  Sichuan University|  [An Image–Text Dual-Channel Union Network for Person Re-Identification](https://research.edgehill.ac.uk/ws/portalfiles/portal/68212565/TIM.pdf)   |	 IEEE T INSTRUM MEAS |https://github.com/ccq195/UNIReID|
+
+| 2023  | Person re-identification | Tianjin University|  [USER: Unified Semantic Enhancement with Momentum Contrast for Image-Text Retrieva](https://arxiv.org/pdf/2301.06844.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
+
+| 2023  | Person re-identification | Tianjin University|  [USER: Unified Semantic Enhancement with Momentum Contrast for Image-Text Retrieva](https://arxiv.org/pdf/2301.06844.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
+
+| 2023  | Person re-identification | Tianjin University|  [USER: Unified Semantic Enhancement with Momentum Contrast for Image-Text Retrieva](https://arxiv.org/pdf/2301.06844.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
 
 
-| 2023  | Person re-identification | Fudan University|  [UNIMO-3: Multi-granularity Interaction for Vision-Language Representation Learning](https://arxiv.org/pdf/2304.02278.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
 
-| 2023  | Person re-identification | Fudan University|  [UNIMO-3: Multi-granularity Interaction for Vision-Language Representation Learning](https://arxiv.org/pdf/2304.02278.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
-
-
-| 2023  | Person re-identification | Fudan University|  [UNIMO-3: Multi-granularity Interaction for Vision-Language Representation Learning](https://arxiv.org/pdf/2304.02278.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
-
-
-| 2023  | Person re-identification | Fudan University|  [UNIMO-3: Multi-granularity Interaction for Vision-Language Representation Learning](https://arxiv.org/pdf/2304.02278.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
 
 | 手机    |   \$12   |   12   |
 | 管线    |    \$1    |  234  |
