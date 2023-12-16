@@ -4,9 +4,9 @@
 * [Object Reidentification](#Object_Reidentification)
 * [Pre-training](#Pre_training)
 * [Prompting Learning](#Prompting_Learning)
-* [Multimodal Large Language Models](Multimodal_Large_Language_Models)
-* [Cross-modal Retrieval](Cross_modal_Retrieval)
-* [Fine Tuning](Fine_Tuning)
+* [Multimodal Large Language Models](#Multimodal_Large_Language_Models)
+* [Cross-modal Retrieval](#Cross_modal_Retrieval)
+* [Fine Tuning](#Fine_Tuning)
 <span id="Object_Reidentification"></span>
 ## Object Reidentification
 | Date   | keywords   | Institute   | Paper | Publication|  code  |
