@@ -27,9 +27,19 @@
 | 2023  | Person re-identification |  Nanjing University of Science and Technology|  [Image-Specific Information Suppression and Implicit Local Alignment for Text-based Person Search](https://arxiv.org/pdf/2208.14365.pdf)   |	 IEEE T NEUR NET LEAR |https://github.com/ccq195/UNIReID|
 | 2023  | Person re-identification | Fudan University|  [Calibrating Cross-modal Features for Text-Based Person Searching](https://arxiv.org/pdf/2304.02278.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
 | 2023  | Person re-identification | Fudan University|  [UNIMO-3: Multi-granularity Interaction for Vision-Language Representation Learning](https://arxiv.org/pdf/2304.02278.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
+| 2023  | Person re-identification | Zhejiang University|  [Transformer-Based Domain-Specific Representation for Unsupervised Domain Adaptive Vehicle Re-Identification](https://ieeexplore.ieee.org/abstract/document/9967437/authors#authors)   |	 IEEE T NEUR NET LEAR |https://github.com/ccq195/UNIReID|
+| 2023  | Person re-identification |-|  [IIITD-20K: Dense captioning for Text-Image ReID](https://arxiv.org/pdf/2305.04497.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
 
 
+| 2023  | Person re-identification | Fudan University|  [UNIMO-3: Multi-granularity Interaction for Vision-Language Representation Learning](https://arxiv.org/pdf/2304.02278.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
 
+| 2023  | Person re-identification | Fudan University|  [UNIMO-3: Multi-granularity Interaction for Vision-Language Representation Learning](https://arxiv.org/pdf/2304.02278.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
+
+
+| 2023  | Person re-identification | Fudan University|  [UNIMO-3: Multi-granularity Interaction for Vision-Language Representation Learning](https://arxiv.org/pdf/2304.02278.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
+
+
+| 2023  | Person re-identification | Fudan University|  [UNIMO-3: Multi-granularity Interaction for Vision-Language Representation Learning](https://arxiv.org/pdf/2304.02278.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
 
 | 手机    |   \$12   |   12   |
 | 管线    |    \$1    |  234  |
