@@ -29,8 +29,7 @@
 | 2023  | Person re-identification | Fudan University|  [UNIMO-3: Multi-granularity Interaction for Vision-Language Representation Learning](https://arxiv.org/pdf/2304.02278.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
 | 2023  | Person re-identification | Zhejiang University|  [Transformer-Based Domain-Specific Representation for Unsupervised Domain Adaptive Vehicle Re-Identification](https://ieeexplore.ieee.org/abstract/document/9967437/authors#authors)   |	 IEEE T NEUR NET LEAR |https://github.com/ccq195/UNIReID|
 | 2023  | Person re-identification |-|  [IIITD-20K: Dense captioning for Text-Image ReID](https://arxiv.org/pdf/2305.04497.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
-| 2023  | Person re-identification | University of Liverpool|  [FindVehicle and VehicleFinder: A NER dataset for natural language-based vehicle
-retrieval and a keyword-based cross-modal vehicle retrieval system](https://arxiv.org/pdf/2304.10893.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
+| 2023  | Person re-identification | University of Liverpool|  [FindVehicle and VehicleFinder: A NER dataset for natural language-based vehicle retrieval and a keyword-based cross-modal vehicle retrieval system](https://arxiv.org/pdf/2304.10893.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
 | 2023  | Person re-identification | Shenzhen University|  [Mask-Aware Pseudo Label Denoising for Unsupervised Vehicle Re-Identification](https://ieeexplore.ieee.org/abstract/document/10007428)   |	 IEEE T INTELL TRANSP |https://github.com/ccq195/UNIReID|
 | 2023  | Person re-identification | -|  [Exploiting the Textual Potential from Vision-Language Pre-training for Text-based Person Search](https://arxiv.org/pdf/2303.04497.pdf)   |	 arXiv |https://github.com/ccq195/UNIReID|
 | 2023  | Person re-identification | Zhejiang University|  [Transformer-Based Domain-Specific Representation for Unsupervised Domain Adaptive Vehicle Re-Identification](https://ieeexplore.ieee.org/abstract/document/9967437)   |	 IEEE T INTELL TRANSP |https://github.com/ccq195/UNIReID|
@@ -45,8 +44,7 @@ retrieval and a keyword-based cross-modal vehicle retrieval system](https://arxi
 | 2023  | Person re-identification | Nanjing Tech University|  [Capturing All-round Information Beyond Color for Text-based Person Retrieval](https://arxiv.org/pdf/2211.08657.pdf)   |	 CAIBC |https://github.com/ccq195/UNIReID|
 | 2022  | Person re-identification | Anhui University|  [See Finer, See More: Implicit Modality Alignment for Text-based Person Retrieval](https://arxiv.org/pdf/2208.08608.pdf)   |	 ECCV |https://github.com/ccq195/UNIReID|
 | 2022  | Person re-identification |DEVCOM Army Research Laboratory, Adelphi, USA|  [Negative Samples are at Large: Leveraging Hard-Distance Elastic Loss for Re-identification](https://link.springer.com/chapter/10.1007/978-3-031-20053-3_35)   |	 ECCV |https://github.com/ccq195/UNIReID|
-| 2022  | Person re-identification | South China University of Technology Guangzhou|  [Learning Granularity-Unified Representations for Text-to-Image
-Person Re-identification](https://arxiv.org/pdf/2207.07802.pdf)   |	 ECCV |https://github.com/ccq195/UNIReID|
+| 2022  | Person re-identification | South China University of Technology Guangzhou|[Learning Granularity-Unified Representations for Text-to-Image Person Re-identification](https://arxiv.org/pdf/2207.07802.pdf)   |	 ECCV |https://github.com/ccq195/UNIReID|
 | 2022  | Person re-identification | University of Surrey|  [AXM-Net: Implicit Cross-Modal Feature Alignment for Person Re-identification](https://ojs.aaai.org/index.php/AAAI/article/view/20370)   |	  AAAI |https://github.com/ccq195/UNIReID|
 
 
