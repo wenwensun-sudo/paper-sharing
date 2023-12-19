@@ -2,9 +2,9 @@
 ## Table of Content
 
 * [Object Reidentification](#Object_Reidentification)
-   * Text-Image Reidentification
-   * Visible-Infrared Reidentification
-* [Masked Vision and Language Model](#Pre_training)
+   * [Text-Image Reidentification](#Text_Image_Reidentification)
+   * [Visible-Infrared Reidentification](#Visible_Infrared_Reidentification)
+* [Masked Vision and Language Model](#Masked_Vision_and_Language_Model)
    * Masked Image Model
    * Masked Language Model
 * [Pre-training](#Pre_training)
@@ -14,6 +14,7 @@
 * [Fine Tuning](#Fine_Tuning)
 <span id="Object_Reidentification"></span>
 ## Object Reidentification
+<span id="Text_Image_Reidentification"></span>
 ### Text-Image Reidentification
 | Date   | keywords   | Institute   | Paper | Publication|  code  |
 | :-------:| :-----:  | :----:  |:----:  |:----:  |:----:  |
@@ -53,7 +54,7 @@
 
 | 手机    |   \$12   |   12   |
 | 管线    |    \$1    |  234  |
-
+<span id="Visible_Infrared_Reidentification"></span>
 ### Visible-Infrared Reidentification
 
 <span id="Masked_Vision_and_Language_Model"></span>
