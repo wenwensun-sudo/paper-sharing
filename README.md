@@ -4,6 +4,9 @@
 * [Object Reidentification](#Object_Reidentification)
    * Text-Image Reidentification
    * Visible-Infrared Reidentification
+* [Masked Vision and Language Model](#Pre_training)
+   * Masked Image Model
+   * Masked Language Model
 * [Pre-training](#Pre_training)
 * [Prompting Learning](#Prompting_Learning)
 * [Multimodal Large Language Models](#Multimodal_Large_Language_Models)
@@ -50,7 +53,12 @@
 
 | 手机    |   \$12   |   12   |
 | 管线    |    \$1    |  234  |
+
 ### Visible-Infrared Reidentification
+
+<span id="Masked_Vision_and_Language_Model"></span>
+## Masked Vision and Language Model
+
 <span id="Pre_training"></span>
 ## Pre-training
 | Date   | keywords   | Institute   | Paper | Publication|  code  |
