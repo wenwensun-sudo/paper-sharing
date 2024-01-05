@@ -74,6 +74,7 @@
 | 2023  | Attributes Prompt  |Harbin Institute of Technology  |  [FashionSAP: Symbols and Attributes Prompt for Fine-grained Fashion Vision-Language Pre-training](https://openaccess.thecvf.com/content/CVPR2023/papers/Han_FashionSAP_Symbols_and_Attributes_Prompt_for_Fine-Grained_Fashion_Vision-Language_Pre-Training_CVPR_2023_paper.pdf)   |CVPR   | https://github.com/hssip/FashionSAP|
 | 2022  | Prompt  |Tsinghua University  |  [DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting](https://openaccess.thecvf.com/content/CVPR2022/papers/Rao_DenseCLIP_Language-Guided_Dense_Prediction_With_Context-Aware_Prompting_CVPR_2022_paper.pdf)   |CVPR   | https://github.com/raoyongming/DenseCLIP|
 | 2023  | Prompt  |  |  [Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model](https://ieeexplore.ieee.org/abstract/document/10171397)   |IEEE Transactions on Multimedia   |  https://github.com/fanrena/DPT|
+| 2023  | Prompt  | Indian Institute of Technology Bombay |  [APPLeNet: Visual Attention Parameterized Prompt Learning for Few-Shot Remote Sensing Image Generalization using CLIP](https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/papers/Jha_APPLeNet_Visual_Attention_Parameterized_Prompt_Learning_for_Few-Shot_Remote_Sensing_CVPRW_2023_paper.pdf)   |CVPR workshop  | https://github.com/mainaksingha01/APPLeNet|
 | 手机    |   \$12   |   12   |
 | 管线    |    \$1    |  234  |
 <span id="Multimodal_Large_Language_Models"></span>
