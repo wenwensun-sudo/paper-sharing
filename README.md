@@ -81,7 +81,7 @@
 | Date   | keywords   | Institute   | Paper | Publication|  code  |
 | :-------:| :-----:  | :----:  |:----:  |:----:  |:----:  |
 | 2022  | masked image reconstruction |Alibaba |  [Masked Vision-Language Transformer in Fashion](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Cross-Modal_Implicit_Relation_Reasoning_and_Aligning_for_Text-to-Image_Person_Retrieval_CVPR_2023_paper.pdf)   |Machine Intelligence Research   | https://github.com/GewelsJI/MVLT |
-| 2023  | CLIP | |  [Attentive Mask CLIP](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Attentive_Mask_CLIP_ICCV_2023_paper.pdf)   |ICCV   | https://github.com/microsoft/A-CLIP |
+| 2023  | CLIP | Microsoft&Tsinghua|  [Attentive Mask CLIP](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Attentive_Mask_CLIP_ICCV_2023_paper.pdf)   |ICCV   | https://github.com/microsoft/A-CLIP |
 | 手机    |   \$12   |   12   |
 | 管线    |    \$1    |  234  |
 <span id="Cross_modal_Retrieval"></span>
