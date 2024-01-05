@@ -89,6 +89,7 @@
 | Date   | keywords   | Institute   | Paper | Publication|  code  |
 | :-------:| :-----:  | :----:  |:----:  |:----:  |:----:  |
 | 2022  | masked image reconstruction |Alibaba |  [Masked Vision-Language Transformer in Fashion](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Cross-Modal_Implicit_Relation_Reasoning_and_Aligning_for_Text-to-Image_Person_Retrieval_CVPR_2023_paper.pdf)   |Machine Intelligence Research   | https://github.com/GewelsJI/MVLT |
+| 2023  | Composed Image Retrieval | Chinese Academy of Sciences |  [Context-I2W: Mapping Images to Context-dependent Words for Accurate Zero-Shot Composed Image Retrieval](https://arxiv.org/pdf/2309.16137.pdf)   |arXiv | https://github.com/Pter61/context i2w |
 | 手机    |   \$12   |   12   |
 | 管线    |    \$1    |  234  |
 <span id="Fine_Tuning"></span>
